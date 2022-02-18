@@ -9,10 +9,10 @@
 [Задание 1.5. ИСР](https://github.com/NikitaSazonov/NikitaSazonov.github.io/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.5.%20%D0%98%D0%A1%D0%A0.docx)
 [Задание 1.6. ИСР](https://github.com/NikitaSazonov/NikitaSazonov.github.io/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.6.%20%D0%98%D0%A1%D0%A0)
 [Задание 1.7. ИСР](https://github.com/NikitaSazonov/NikitaSazonov.github.io/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.7.%20%D0%98%D0%A1%D0%A0)
-[Задание 1.8. ИСР]()
-[Задание 1.9. ИСР]()
+[Задание 1.8. ИСР](https://github.com/NikitaSazonov/NikitaSazonov.github.io/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.8.%20%D0%98%D0%A1%D0%A0.docx)
+[Задание 1.9. ИСР](https://github.com/NikitaSazonov/NikitaSazonov.github.io/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.9.%20%D0%98%D0%A1%D0%A0.docx)
 [Задание 1.10. ИСР]()
-[Задание 1.11. ИСР]()
+[Задание 1.11. ИСР](https://github.com/NikitaSazonov/NikitaSazonov.github.io/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.11.%20%D0%98%D0%A1%D0%A0.png)
 
 ## Вариативная самостоятельная работа 
 
